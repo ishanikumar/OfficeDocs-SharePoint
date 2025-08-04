@@ -116,13 +116,13 @@ This section describes how to enable and use OneDrive in Omnissa Horizon Virtual
 
 - Windows
 
-  - Windows 10 and Windows 11 Guest Operating Systems for Horizon Agent and Remote Experience, for Omnissa Horizon 8.x (2006 and later) (78714)
+  - Windows 10 and Windows 11 Guest Operating Systems for Horizon Agent and Remote Experience, for Omnissa Horizon 8.x (2006 and later) (78714). For more info refer to [this article](https://kb.omnissa.com/s/article/78714).
   
-  - Non-Windows 10 and 11 Guest Operating Systems for Horizon 8 Agent (78715)
+  - Non-Windows 10 and 11 Guest Operating Systems for Horizon 8 Agent (78715). For more info refer to [this article](https://kb.omnissa.com/s/article/78714).
   
 - FSLogix
 
-- Omnissa Dynamic Environment Manager (DEM) or a product which enables user environment personalization. The system on which you plan to install DEM must meet certain software requirements. For more info refer to [this article](https://docs.omnissa.com/bundle/DEMInstallConfigGuideV2406/page/SoftwareRequirements.html).
+- Omnissa Dynamic Environment Manager (DEM) or a product which enables user environment personalization. The system on which you plan to install DEM must meet certain software requirements. For more info refer to [this article](https://kb.omnissa.com/s/article/78715).
 
 ### Registry Keys
 
